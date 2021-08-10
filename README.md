@@ -2,7 +2,7 @@
 
 This is the new repository from the original one (https://github.com/xiaogangw-zz/point-cloud-completion-shape-prior), all the contents are the same.
 
-This is the TensorFlow implementation for the paper "Point Cloud Completion by Learning Shape Priors"
+This is the TensorFlow implementation for the paper "Point Cloud Completion by Learning Shape Priors (IROS 2020)"
 
 ## Getting Started
 python version: python-3.5;  cuda version: cuda-10;  TensorFlow version: tensorflow-1.13;   Ubuntu version: 16.04
